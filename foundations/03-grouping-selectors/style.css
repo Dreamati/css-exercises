@@ -1,0 +1,11 @@
+.same {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+.same.dif1 {
+    color: white;
+    background-color: black;
+}
+.same.dif2 {
+    background-color: yellow;
+}

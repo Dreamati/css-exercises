@@ -1,0 +1,15 @@
+p {
+    background-color: #e09ea8;
+    font: 'Verdana','DejaVu Sans','sans-serif';
+}
+.f-s-24 {
+    font-size: 24px;
+}
+.f-s-24.number-4 {
+    background-color: #4dca4d;
+    font-weight: 800;
+}
+#num_two {
+    font-size: 36px;
+    color: #5ebdce;
+}
